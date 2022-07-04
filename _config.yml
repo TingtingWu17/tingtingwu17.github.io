@@ -105,16 +105,16 @@ analytics:
 # Site Author
 author:
   name             : "Tingting Wu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Ph.D. student in Washington University in St. Louis"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am a Ph.D. student in Imaging Science Program in Washington University in St. Louis"
   location         : "MO, St. Louis"
-  email            : "wu.t@wustl.edu"
+  #email            : "wu.t@wustl.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "wu.t@wustl.edu"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linked-in"
       url: "https://www.linkedin.com/in/tingting-wu-722403131/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

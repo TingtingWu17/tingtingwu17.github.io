@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Research Project"
-    url: https://github.com/TingtingWu17/tingtingwu17.github.io/blob/d1beb7e6d227956ac5b9b6be1d6580fdebb48918/_pages/Research Projects.md
+    file: "_pages/Research Projects.md"
   - title: "Publications"
-    url: https://github.com/TingtingWu17/tingtingwu17.github.io/blob/d1beb7e6d227956ac5b9b6be1d6580fdebb48918/_pages/Publications.md
+    file: "_pages/Publications.md"
   - title: "Awards"
-    url: https://github.com/TingtingWu17/tingtingwu17.github.io/blob/d1beb7e6d227956ac5b9b6be1d6580fdebb48918/_pages/Awards.md
+    file: "_pages/Awards.md"
   - title: "Other Activities"
-    url: https://github.com/TingtingWu17/tingtingwu17.github.io/blob/d1beb7e6d227956ac5b9b6be1d6580fdebb48918/_pages/Other Activities.md
+    file: "_pages/Other Activities.md"
   - title: "CV"
-    url: https://github.com/TingtingWu17/tingtingwu17.github.io/blob/d1beb7e6d227956ac5b9b6be1d6580fdebb48918/_pages/TingtingWu_CV_2022June.pdf
+    file: "_pages/TingtingWu_CV_2022June.pdf"

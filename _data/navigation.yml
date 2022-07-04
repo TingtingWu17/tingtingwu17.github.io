@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Research Project"
-    url: _pages/research projects
+    file: _pages/research projects
   - title: "Publications"
-    url: _pages/publications
+    url: /_pages/publications
   - title: "Awards"
     url: _pages/awards
   - title: "Other Activities"

@@ -3,12 +3,12 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research Project"
-    file: Research Projects.md
+    file: _pages/Research Projects.md
   - title: "Publications"
-    file: Publications.md
+    file: _pages/Publications.md
   - title: "Awards"
-    file: Awards.md
+    file: _pages/Awards.md
   - title: "Other Activities"
-    file: Other Activities.md
+    file: _pages/Other Activities.md
   - title: "CV"
-    file: TingtingWu_CV_2022June.pdf
+    file: _pages/TingtingWu_CV_2022June.pdf

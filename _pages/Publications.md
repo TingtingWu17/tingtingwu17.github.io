@@ -36,6 +36,7 @@ properties of SnSe polycrystals via texture control”. In: Physical Chemistry C
 (2016), pp. 31821–31827. issn: 1463-9076. [Article](doi: 10.1039/C6CP06466C).
 
 *Other Publications
+
 [2] __Tingting Wu__, Jin Lu, and Matthew Lew. “pixOL: pixel-wise point spread function engineering for measuring
 the 3D orientation and 3D location of dipole-like emitters”. In: vol. 27. S1. Cambridge University Press, 2021,
 pp. 858–862. [Article](doi: 10.1017/S1431927621003366).

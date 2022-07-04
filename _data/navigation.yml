@@ -3,7 +3,7 @@ main:
   - title: "Research Project"
     file: "_pages/Research Projects.md"
   - title: "Publications"
-    file: "_pages/Publications.md"
+    file: "Publications.md"
   - title: "Awards"
     file: "_pages/Awards.md"
   - title: "Other Activities"

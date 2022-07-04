@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tingting Wu's Personal Website"
+title                    : "Tingting Wu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tingting Wu"
@@ -117,7 +117,7 @@ author:
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/tingting-wu-722403131/"
     - label: "Google Scholar"
-      icon: "fa-brands fa-google"
+      #icon: "fa-brands fa-google"
       url: "https://scholar.google.com/citations?user=Bp7Cif0AAAAJ&hl=enhttps://www.linkedin.com/in/tingting-wu-722403131/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

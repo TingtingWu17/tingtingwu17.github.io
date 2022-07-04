@@ -1,5 +1,6 @@
 ---
 title: "Other Activities"
-layout: single
+permalink: /_pages/other-activities/
+layout: default
 author_profile: true
 ---

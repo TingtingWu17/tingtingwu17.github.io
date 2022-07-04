@@ -1,5 +1,6 @@
 ---
 title: "Awards"
-layout: single
+permalink: /_pages/awards/
+layout: default
 author_profile: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Research Projects"
-layout: single
+permalink: /_pages/research-projects/
+layout: default
 author_profile: true
 ---

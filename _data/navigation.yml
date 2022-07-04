@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Research Project"
-    url: _pages/Research Projects
+    url: _pages/research-projects
   - title: "Publications"
-    url: _pages/Publications
+    url: _pages/publications
   - title: "Awards"
-    url: _pages/Awards
+    url: _pages/awards
   - title: "Other Activities"
-    url: _pages/Other Activities
+    url: _pages/other-activities
   - title: "CV"
     url: _pages/TingtingWu_CV_2022June

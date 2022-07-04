@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research Project"
     file: "_pages/Research Projects.md"
   - title: "Publications"
@@ -11,4 +9,6 @@ main:
   - title: "Other Activities"
     file: "_pages/Other Activities.md"
   - title: "CV"
-    file: "TingtingWu_CV_2022June.pdf"
+    file: "/_pages/TingtingWu_CV_2022June.pdf"
+  - tile: "test"
+    url: https://lewlab.wustl.edu/pages/publications.html

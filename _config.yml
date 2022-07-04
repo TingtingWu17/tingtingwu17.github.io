@@ -110,9 +110,9 @@ author:
   location         : "MO, St. Louis"
   #email            : "wu.t@wustl.edu"
   links:
-    - label: "Email"
+    - label: "Email:wu.t@wustl.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wu.t@wustl.edu"
+      url: "mailto: wu.t@wustl.edu"
     - label: "LinkedIn"
       icon: "fas fa-linkedin-in"
       url: "https://www.linkedin.com/in/tingting-wu-722403131/"

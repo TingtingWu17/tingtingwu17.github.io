@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
 permalink: /_pages/research-projects/
-layout: default
+layout: home
 author_profile: true
 ---

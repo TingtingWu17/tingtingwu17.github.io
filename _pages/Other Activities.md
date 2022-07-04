@@ -1,6 +1,6 @@
 ---
 title: "Other Activities"
 permalink: /_pages/other-activities/
-layout: default
+layout: home
 author_profile: true
 ---

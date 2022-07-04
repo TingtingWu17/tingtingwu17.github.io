@@ -1,6 +1,6 @@
 ---
 title: "Awards"
 permalink: /_pages/awards/
-layout: default
+layout: home
 author_profile: true
 ---

@@ -1,5 +1,4 @@
-defaults:
- # _pages
- - scope:
-path: ""
-type
+---
+layout: home
+author_profile: true
+---

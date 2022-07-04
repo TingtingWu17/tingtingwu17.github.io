@@ -9,15 +9,23 @@ author_profile: true
 [6] __Tingting Wu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Imaging
 the 3D orientations and 2D positions of overlapping single molecules with nanoscale resolution using deep
 learning”. In: Under Written (2022).
+
+
 [5] __Tingting Wu__, Jin Lu, and Matthew D. Lew. “Dipole-spread-function engineering for simultaneously measuring
 the 3D orientations and 3D positions of fluorescent molecules”. In: Optica 9.5 (2022), p. 505. [Article](doi: 10.1364/
 optica.451899).
+
+
 [4] Oumeng Zhang, Weiyan Zhou, Jin Lu, __Tingting Wu__, and Matthew D. Lew. “Resolving the three-dimensional
 rotational and translational dynamics of single molecules using radially and azimuthally polarized fluorescence”.
 In: Nano Letters 22.3 (2022), pp. 1024–1031. [Article]doi: 10.1021/acs.nanolett.1c03948.
+
+
 [3] Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. “Single-molecule orientation
 localization microscopy for resolving structural heterogeneities within amyloid fibrils”. In: Optica 7.6
 (2020), pp. 602–607. [Article](doi: 10.1364/optica.388157).
+
+
 [2] __Tingting Wu__, Linlin Xu, and Xinhai Zhang. “High sensitivity refractive index sensor based on the semicircular
 bent fiber”. In: Journal of Physics Communications 2.6 (2018), p. 065009. [Article](doi: 10.1088/2399-6528/aacb0b).
 [1] Dan Feng, Zhen-Hua Ge, Di Wu, Yue-Xing Chen, __Tingting Wu__, Ju Li, and Jiaqing He. “Enhanced thermoelectric

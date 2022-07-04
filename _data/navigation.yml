@@ -3,10 +3,10 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research Project"
-    url: /Research Projects/
+    url: Research Projects.md
   - title: "Publications"
-    url: /Publications/
+    url: Publications.md
   - title: "Awards"
-    url: /Awards/
+    url: Awards.md
   - title: "Other Activities"
-    url: /Other Activities/
+    url: Other Activities.md

@@ -8,7 +8,7 @@ author_profile: true
 
 __†equally contributed__
 
-__*Refereed Publications__
+__Refereed Publications__
 
 [6] __Tingting Wu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Imaging
 the 3D orientations and 2D positions of overlapping single molecules with nanoscale resolution using deep
@@ -33,7 +33,7 @@ bent fiber”. In: Journal of Physics Communications 2.6 (2018), p. 065009. [Art
 properties of SnSe polycrystals via texture control”. In: Physical Chemistry Chemical Physics 18.46
 (2016), pp. 31821–31827. issn: 1463-9076. [Article](doi: 10.1039/C6CP06466C).
 
-*Other Publications
+__Other Publications__
 
 [2] __Tingting Wu__, Jin Lu, and Matthew Lew. “pixOL: pixel-wise point spread function engineering for measuring
 the 3D orientation and 3D location of dipole-like emitters”. In: vol. 27. S1. Cambridge University Press, 2021,

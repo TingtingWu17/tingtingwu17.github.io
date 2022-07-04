@@ -4,8 +4,12 @@ permalink: /_pages/publications/
 layout: home
 author_profile: true
 ---
+
+
 † equally contributed
+
 *Refereed Publications
+
 [6] __Tingting Wu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Imaging
 the 3D orientations and 2D positions of overlapping single molecules with nanoscale resolution using deep
 learning”. In: Under Written (2022).

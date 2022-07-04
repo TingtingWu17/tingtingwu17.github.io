@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /_pages/publications/
-layout: home
+layout: single
 author_profile: true
 ---
 

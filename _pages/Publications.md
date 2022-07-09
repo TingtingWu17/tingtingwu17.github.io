@@ -18,7 +18,7 @@ learning”. In: Under Written (2022). -->
 [6] Oumeng Zhang, Zijian Guo, Yuanyuan He, __Tingting Wu__, Michael D Vahey, and Matthew D Lew. “Six Dimensional Single-Molecule Imaging with Isotropic Resolution using a Multi-View Reflector Microscope”. In: bioRxiv (2022). [[Article]](http://dx.doi.org/10.1101/2022.06.26.497661).
 
 [5] __Tingting Wu__, Jin Lu, and Matthew D. Lew. “Dipole-spread-function engineering for simultaneously measuring
-the 3D orientations and 3D positions of fluorescent molecules”. In: Optica 9.5 (2022), p. 505. [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV).
+the 3D orientations and 3D positions of fluorescent molecules”. In: Optica 9.5 (2022), p. 505. [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV) [[Summary video]](/_pages/pixOL summary  video.mp4).
 
 [4] Oumeng Zhang, Weiyan Zhou, Jin Lu, __Tingting Wu__, and Matthew D. Lew. “Resolving the three-dimensional
 rotational and translational dynamics of single molecules using radially and azimuthally polarized fluorescence”.

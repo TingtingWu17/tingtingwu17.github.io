@@ -3,6 +3,7 @@ title: "Other Activities"
 permalink: /_pages/other-activities/
 layout: single
 author_profile: true
+classes: wide
 ---
 __detail upcoming__
 - Initiator and Committee chair of imaging science student seminar in WashU      2019,9-2022,4\\

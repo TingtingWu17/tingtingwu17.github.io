@@ -3,6 +3,7 @@ title: "Awards"
 permalink: /_pages/awards/
 layout: single
 author_profile: true
+classes: wide
 ---
 
 - Second-place Poster Award Imaging Sciences Pathway Retreat, WashU 2022

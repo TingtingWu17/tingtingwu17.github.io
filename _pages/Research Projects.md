@@ -3,6 +3,7 @@ title: "Research Projects"
 permalink: /_pages/research-projects/
 layout: single
 author_profile: true
+classes: wide
 ---
 
 ### Point spread function engineering 

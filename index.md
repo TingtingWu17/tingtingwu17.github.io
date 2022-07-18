@@ -5,7 +5,7 @@ classes: wide
 layout: single
 ---
 
-I am a Ph.D. student in [LewLab](https://lewlab.wustl.edu/), [Imaging Science Program](https://engineering.wustl.edu/academics/programs/imaging-science/index.html) in Washington University in St. Louis. My research is adviced by Prof. Matthew Lew.
+I am a Ph.D. student in [Lew Lab](https://lewlab.wustl.edu/), [Imaging Science Program](https://engineering.wustl.edu/academics/programs/imaging-science/index.html) in Washington University in St. Louis. My research is adviced by Prof. Matthew Lew.
 
 I am working on designing advance imaging sytem: single-molecule orientation localization microscopy (SMOLM). I use computational imaging and optical techniques to design SMOLM. Our imaging system extends the ability of traditional imaging techniques: measuring six-dimention information of imaging target by leveraging the phase and polarization of lights. 
 My research includes

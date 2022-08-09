@@ -14,6 +14,10 @@ __Refereed Publications__
 <!-- [6] __Tingting Wu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Imaging
 the 3D orientations and 2D positions of overlapping single molecules with nanoscale resolution using deep
 learning”. In: Under Written (2022). -->
+[7] __TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Deep Learning
+Resolves the 3D Orientations and 2D Positions of Overlapping Single Molecules with Optimal Nanoscale
+Resolution”. In: bioRxiv (2022), p. 2022.07.31.502237. [[Article]](http://dx.doi.org/10.1101/2022.07.31.502237) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/).
+
 
 [6] Oumeng Zhang, Zijian Guo, Yuanyuan He, __Tingting Wu__, Michael D Vahey, and Matthew D Lew. “Six Dimensional Single-Molecule Imaging with Isotropic Resolution using a Multi-View Reflector Microscope”. In: bioRxiv (2022). [[Article]](http://dx.doi.org/10.1101/2022.06.26.497661).
 

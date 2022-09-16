@@ -28,7 +28,6 @@ We designed an optimization algorithm to optimize a phase mask that we will put 
 
 The optimized microscope enables us to simultaneously measure the 3D position and 3D orientation of fluorescent probes. We reconstructed the shape of a spherical supported lipid bilayer (SLB). All the fluorescent emitters have orientation perpendicular to the spherical surface for SLB with cholesterol, however, once we delete the cholesterol, the SLB becomes more spacious for fluorescent probes to rotate. Therefore, we notice more random orientations for SLB without cholesterol.
 
-
 <img src="/_pages/files/pixOL one-slide summary3.gif" width="800" height="800" />
 
 
@@ -37,14 +36,25 @@ The optimized microscope enables us to simultaneously measure the 3D position an
 
 <span style="color:teal; font-family:cursive;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express (2022). [[Article]](http://dx.doi.org/10.1101/2022.07.31.502237) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/). </span>
 
-detail upcoming
+Using engineered PSF, emitters with different orientations will generate PSFs with different shapes on our camera. In this work, we design a deep-learning-based algorithm to estimate the 3D orientation and 2D position from the noise-crrupted PSFs. 
+
+We smartly designed our network to handle this high dimensional estimation challenge: 1) __we encode the 3D orientation and 2D position orthogonally__ into the spatial position and intensity of the gaussian patterns on the output images; 2) __we leverage the forward model__ to output the orientational second moments instead of the three orientation angles.  
+
+Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) handling overlapped emitters, 2) being close to optimal precision due to its ability to output global minima instead of sticking in the local minima, and 3) ~10 times faster estimation speed.
+
+<img src="/_pages/files/Deep-SMOLM one slide summary.jpg" width="800" height="800" />
+
 
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Adaptive microscopy design</span>
-detail upcoming
+
+<span style="color:teal; font-family:cursive;font-size: 15px;"> on going project, more details will be added later </span>
+
+Most of the microsocpes are fixed once built. In this project, we configure the strucuture of the microscope to adapt to the current measurement to achieve better imaging. 
 
 
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Mapping dynamic and heterogeneous 6D network of bio-condensates </span>
-detail upcoming
+<span style="color:teal; font-family:cursive;font-size: 15px;"> paper is under written, more details will be added later </span>
+
 
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Evaluation metric design based on information theory </span>
 

@@ -30,7 +30,7 @@ In: Nano Letters 22.3 (2022), pp. 1024–1031. [[Article]](http://dx.doi.org/10.
 
 [3] Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. “Single-molecule orientation
 localization microscopy for resolving structural heterogeneities within amyloid fibrils”. In: Optica 7.6
-(2020), pp. 602–607. [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a).
+(2020), pp. 602–607. [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a) [[Summary slide]](/_pages/files/summary page_optica_VUB_TAB.png).
 
 [2] __Tingting Wu__, Linlin Xu, and Xinhai Zhang. “High sensitivity refractive index sensor based on the semicircular
 bent fiber”. In: Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).

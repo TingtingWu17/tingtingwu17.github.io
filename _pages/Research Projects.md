@@ -55,12 +55,41 @@ Most of the microsocpes are fixed once built. In this project, we configure the 
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Mapping dynamic and heterogeneous 6D network of bio-condensates </span>
 <span style="color:teal; font-family:cursive;font-size: 15px;"> paper is under written, more details will be added later </span>
 
+Biomolecular condensates are formed by proteins and nucleic acids and are liquid-like, membraneless structures that play critical roles in various cellular activities such as gene regulation, cell-cell signaling, and actin assembly. The mechanisms of how condensates form and dissolve, which can be viewed as the network architecture formed by interactions between proteins, are not well understood. 
+
+In this project, we use single molecule techniques to study the internal archetecture of biomolecular condensates.
+
 
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Evaluation metric design based on information theory </span>
 
 <span style="color:teal; font-family:cursive;font-size: 15px;">Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. Optica 7.6
-(2020) [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a)</span>
+(2020) [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a) [[Summary slide]](/_pages/files/summary page_optica_VUB_TAB.png)</span>
 
 
-detail upcoming
+In this project, we developed a metric, termed variance upper bound (VUB), to quickly select the best microscope for single-molecule orientation measurements.
+VUB, the global upper bound of Cramér-Rao bound (CRB) for all possible molecular orientations, efficiently quantifies the orientation sensitivity of a point spread function (PSF) ~1000X faster than calculating the average CRB over orientation space. 
+
+VUB enables us to realize that the polarized standard PSF (polar) provides superior measurement precision when molecules are near a refractive index (RI) interface. We then used the polarized standard PSF to measure the 3D orientation and 2D position of Nile red that transiently bind to the amyloid fibril.
+
+
+
+<p align = "left">
+<p align = "center">
+<span style="color:black;font-size: 15px;font-family:cursive;"> Orientations of indivual Nile reds on amyloid fibril </span>
+<p align = "left">
+<img src="/_pages/files/TAB_flyover.gif" width="800" height="800" />
+</p>
+<p align = "right">
+<span style="color:gray;font-size: 15px;"> Image credit to Prof. Matthew D. Lew and Dr. Tianben Ding </span>
+</p>
+
+<!-- <video src="/_pages/files/TAB_Fig2Flyover.mp4" controls="controls" style="max-width: 730px;">
+</video> -->
+
+
+<!-- <video controls width="800">
+    <source src="/_pages/files/TAB_Fig2Flyover720p.webm"
+            type="video/webm">
+</video> -->
+
 

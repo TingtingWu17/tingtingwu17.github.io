@@ -12,9 +12,9 @@ I enjoy finding ways to facilite better science communication.
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science student seminar initiator and chair</span>
 
 <img src="/_pages/files/IS_student_seminar_team.jpg" align="right" width="200px"/>
-WashU is especially strong in imaging sceince. We have PhDs from many departments and all working on researches related to imaging science.
+WashU have many PhDs from many departments and are working on researches related to imaging science.
 
-Together with Aahana Bajracharya, Maria Medrano, and Chunhui Yang, we initiated monthly __imaging science student seminar__ in the fall of 2019. We invited PhD students from different programs to share their awesome imaging researches to our audience, e.g., MRI, CT, OCT, fluorescnece imaging, machine learning on imaging ...
+Together with Aahana Bajracharya, Maria Medrano, and Chunhui Yang, we initiated monthly imaging science student seminar in the fall of 2019. We invited PhD students from different programs to share their awesome imaging researches to our audiences, e.g., MRI, CT, OCT, fluorescnece imaging, machine learning on imaging ...
 
 We also build our own [website](https://sites.wustl.edu/imagingscienceseminar/) for sharing the recorded presentations. 
 <br clear="left"/>
@@ -34,7 +34,7 @@ details upcoming
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Invited research speaker for math camp in WashU</span>
 
-I give a talk titled with "Engineering the point spread function of single-molecule microscopy through Fourier transform" on [Math Camp](https://wiry-salary-f6f.notion.site/Signals-and-Systems-78355b8113364656bf485c96a8d7e7bb) in WashU.
+I give a talk titled "engineering the point spread function of single-molecule microscopy through Fourier transform" on [Math Camp](https://wiry-salary-f6f.notion.site/Signals-and-Systems-78355b8113364656bf485c96a8d7e7bb) in WashU.
 
 
 

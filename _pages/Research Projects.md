@@ -32,7 +32,7 @@ The optimized microscope enables us to simultaneously measure the 3D position an
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Deep-Learning based estimation algorithm design</span>
+## <span style="color:teal; font-family:cursive;font-size: 25px;">Deep-learning based estimation algorithm design</span>
 
 <span style="color:teal; font-family:cursive;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express (2022). [[Article]](http://dx.doi.org/10.1101/2022.07.31.502237) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/). </span>
 

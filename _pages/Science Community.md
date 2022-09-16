@@ -12,8 +12,8 @@ I enjoy communicating my science using different languages when facing different
 
 
 
-
-## <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science student seminar initiator and chair</span>
+## <span style="color:teal; font-family:cursive;font-size: 20px;">Building science communication platforms</span>
+### <span style="color:teal; font-family:cursive;font-size: 15px;">Imaging science student seminar initiator and chair</span>
 
 <img src="/_pages/files/IS_student_seminar_team.jpg" align="right" width="200px"/>
 WashU has PhDs from many departments and is working on imaging science-related research, e.g., MRI, CT, OCT, fluorescence imaging, machine learning on imaging ...
@@ -23,16 +23,17 @@ Together with Aahana Bajracharya, Maria Medrano, and Chunhui Yang, we initiated 
 During the pandemic time, we decided to build our ['imaging science library](https://sites.wustl.edu/imagingscienceseminar/) where we shared our presenters' presentations after their seminars. We hope this library will help new students find the labs they are interested in, and help existing students know more about the imaging science happening at WashU. 
 <br clear="left"/>
 
-## <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science pathway retreat committee</span>
+### <span style="color:teal; font-family:cursive;font-size: 15px;">Imaging science pathway retreat committee</span>
 <img src="/_pages/files/ISP_preparsion_committee.jpg" align="right" width="200px"/>
-detail upcoming
+As a committee member, I helped to organize the annually imaging science pathway retreat in 2020. Learning and participating in the organization and planning process of a big conference is beneficial.
 <br clear="left"/>
 
 
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;"> Sciecence outreach</span>
 ### <span style="color:teal; font-family:cursive;font-size: 15px;"> St. Louis Science Center Outreach</span>
-detail upcoming
+Lew lab had a science table at the St. Louis Science Center for demonstrating Lewlab's research to more than ~200 visitors. We demonstrated 1) how we leverage fluorescence to see things in the dark, and 2) how we achieve high resolution using single-molecule imaging through a playing game.
+
 
 ### <span style="color:teal; font-family:cursive;font-size: 15px;"> Science Coach Program in WashU</span>
 <img src="/_pages/files/Science_coach.jpg" align="right" width="200px"/>
@@ -40,13 +41,11 @@ I am a science coach in the event organized by Association of Graduate Engineeri
 
 We meet high school students and facilitate them to brainstorm research projects. I am flattered that one student was inspired by our imaging demo and come up with an idea of how the color of stars is related to their distance to the center of the milky way galaxy.
 
-
-## <span style="color:teal; font-family:cursive;font-size: 20px;">Invited research speaker for math camp in WashU</span>
+### <span style="color:teal; font-family:cursive;font-size: 15px;">Invited research speaker for math camp in WashU</span>
 
 [<img src="/_pages/files/math_camp_presentation.PNG" align="right" width="400px"/>](https://youtu.be/0VAVdnmY_wY)
 I gave a talk titled "Engineering the point spread function of single-molecule microscopy through Fourier transform" on [Math Camp](https://wiry-salary-f6f.notion.site/Signals-and-Systems-78355b8113364656bf485c96a8d7e7bb) in WashU for the incoming Ph.D. students in the imaging science program. 
 This is my first time giving a lecture about Fourier optics, and I was thrilled to share this beautiful physics and mathematics with the new students.
-
 
 
 
@@ -59,7 +58,6 @@ This is my first time giving a lecture about Fourier optics, and I was thrilled 
 
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Science artworks</span>
-
 ## <span style="color:teal; font-family:cursive;font-size: 15px;">Science image</span>
 
 <img src="/_pages/files/Optica-pixOL-cover art4.jpg" align="center" width="400px"/>

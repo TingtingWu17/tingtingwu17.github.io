@@ -60,6 +60,7 @@ Biomolecular condensates are formed by proteins and nucleic acids and are liquid
 In this project, we use single molecule techniques to study the internal archetecture of biomolecular condensates.
 
 
+
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Evaluation metric design based on information theory </span>
 
 <span style="color:teal; font-family:cursive;font-size: 15px;">Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. Optica 7.6
@@ -71,9 +72,12 @@ VUB, the global upper bound of Cramér-Rao bound (CRB) for all possible molecula
 
 VUB enables us to realize that the polarized standard PSF (polar) provides superior measurement precision when molecules are near a refractive index (RI) interface. We then used the polarized standard PSF to measure the 3D orientation and 2D position of Nile red that transiently bind to the amyloid fibril.
 
+<span style="color:black;font-size: 15px;font-family:cursive;" align = "center"> Orientations of indivual Nile reds on amyloid fibril </span>
+<img src="/_pages/files/TAB_flyover.gif" width="600" height="600"  />
 
+<span style="color:gray;font-size: 15px;" align="right"> Image credit to Prof. Matthew D. Lew and Dr. Tianben Ding </span>
 
-<p align = "left">
+<!-- <p align = "left">
 <p align = "center">
 <span style="color:black;font-size: 15px;font-family:cursive;"> Orientations of indivual Nile reds on amyloid fibril </span>
 <p align = "left">
@@ -81,15 +85,14 @@ VUB enables us to realize that the polarized standard PSF (polar) provides super
 </p>
 <p align = "right">
 <span style="color:gray;font-size: 15px;"> Image credit to Prof. Matthew D. Lew and Dr. Tianben Ding </span>
-</p>
-
-<!-- <video src="/_pages/files/TAB_Fig2Flyover.mp4" controls="controls" style="max-width: 730px;">
-</video> -->
+</p> -->
 
 
-<!-- <video controls width="800">
-    <source src="/_pages/files/TAB_Fig2Flyover720p.webm"
-            type="video/webm">
-</video> -->
 
+
+## <span style="color:teal; font-family:cursive;font-size: 25px;">Optical fiber sensor </span>
+
+<span style="color:teal; font-family:cursive;font-size: 15px;">__Tingting Wu__, Linlin Xu, and Xinhai Zhang. Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).</span>
+
+details upcoming
 

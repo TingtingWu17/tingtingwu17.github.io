@@ -47,7 +47,7 @@ Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) handling ov
 
 ## <span style="color:teal; font-family:cursive;font-size: 25px;">Adaptive microscopy design</span>
 
-<span style="color:teal; font-family:cursive;font-size: 15px;"> on going project, more details will be added later </span>
+<span style="color:teal; font-family:cursive;font-size: 15px;"> ongoing project, more details will be added later </span>
 
 Most of the microsocpes are fixed once built. In this project, we configure the strucuture of the microscope to adapt to the current measurement to achieve better imaging. 
 

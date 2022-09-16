@@ -16,7 +16,7 @@ WashU is especially strong in imaging sceince. We have PhDs from many department
 
 Together with Aahana Bajracharya, Maria Medrano, and Chunhui Yang, we initiated monthly __imaging science student seminar__ in the fall of 2019. We invited PhD students from different programs to share their awesome imaging researches to our audience, e.g., MRI, CT, OCT, fluorescnece imaging, machine learning on imaging ...
 
-We also build our own website for sharing the recorded presentations. [Website](https://sites.wustl.edu/imagingscienceseminar/)
+We also build our own [website](https://sites.wustl.edu/imagingscienceseminar/) for sharing the recorded presentations. 
 <br clear="left"/>
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science pathway retreat committee</span>
@@ -34,11 +34,19 @@ details upcoming
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Invited research speaker for math camp in WashU</span>
 
-detail upcoming
+I give a talk titled with "Engineering the point spread function of single-molecule microscopy through Fourier transform" on [Math Camp](https://wiry-salary-f6f.notion.site/Signals-and-Systems-78355b8113364656bf485c96a8d7e7bb) in WashU.
+
+
+
+<!-- https://youtu.be/0VAVdnmY_wY -->
+
+[![Watch the video ](/_pages/files/math_camp_presentation.PNG)](https://youtu.be/0VAVdnmY_wY)
+
+
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Science artworks</span>
 
-## <span style="color:teal; font-family:cursive;font-size: 15px;">Journal cover submission (unused)</span>
+## <span style="color:teal; font-family:cursive;font-size: 15px;">Journal cover submission (unaccepted)</span>
 
 <img src="/_pages/files/Optica-pixOL-cover art4.jpg" align="right" width="400px"/>
 Nile red, a fluorescent emitter, transiently binds to the lipid bilayers at a certain orientation and emit fluorescence light. Our pixel-wise optimized phase mask is placed at the back focal plane of the microscope to modulate the phase of fluorescence light. After modulation, the shape of point spread function enables us to measure the 3D orientation and 3D position of Nile red simultaneously. 
@@ -53,4 +61,8 @@ The pixOL microscope enables super-resolution imaging of the 3D locations and 3D
 
 <br clear="left"/>
 
+## <span style="color:teal; font-family:cursive;font-size: 20px;">Tingting research on News</span>
 
+[Lew lab sheds new light on cell membranes](https://engineering.wustl.edu/news/2022/Lew-lab-sheds-new-light-on-cell-membranesnews.html)
+
+[New microscopy method provides unprecedented look at amyloid protein structure](https://engineering.wustl.edu/news/2020/New-microscopy-method-provides-unprecedented-look-at-amyloid-protein-structure.html)

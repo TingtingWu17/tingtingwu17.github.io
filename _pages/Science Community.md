@@ -61,7 +61,7 @@ The pixOL microscope enables super-resolution imaging of the 3D locations and 3D
 
 <br clear="left"/>
 
-## <span style="color:teal; font-family:cursive;font-size: 20px;">Tingting research on News</span>
+## <span style="color:teal; font-family:cursive;font-size: 20px;">Tingting's research on News</span>
 
 [Lew lab sheds new light on cell membranes](https://engineering.wustl.edu/news/2022/Lew-lab-sheds-new-light-on-cell-membranesnews.html)
 

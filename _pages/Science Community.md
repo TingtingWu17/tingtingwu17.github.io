@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-I enjoy finding ways to facilite better science communications. 
+I enjoy finding ways to facilite better science communication. 
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science student seminar initiator and chair</span>
 

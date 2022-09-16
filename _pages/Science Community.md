@@ -43,13 +43,11 @@ We meet high school students and facilitate them to brainstorm research projects
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Invited research speaker for math camp in WashU</span>
 
-I gave a talk titled "engineering the point spread function of single-molecule microscopy through Fourier transform" on [Math Camp](https://wiry-salary-f6f.notion.site/Signals-and-Systems-78355b8113364656bf485c96a8d7e7bb) in WashU.
+[<img src="/_pages/files/math_camp_presentation.PNG" align="right" width="400px"/>](https://youtu.be/0VAVdnmY_wY)
+I gave a talk titled "Engineering the point spread function of single-molecule microscopy through Fourier transform" on [Math Camp](https://wiry-salary-f6f.notion.site/Signals-and-Systems-78355b8113364656bf485c96a8d7e7bb) in WashU for the incoming Ph.D. students in the imaging science program. 
+This is my first time giving a lecture about Fourier optics, and I was thrilled to share this beautiful physics and mathematics with the new students.
 
 
-
-<!-- https://youtu.be/0VAVdnmY_wY -->
-
-[![Watch the video ](/_pages/files/math_camp_presentation.PNG)](https://youtu.be/0VAVdnmY_wY)
 
 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Tingting's research on News</span>

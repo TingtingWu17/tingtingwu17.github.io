@@ -30,7 +30,7 @@ As a committee member, I helped to organize the annually imaging science pathway
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 20px;"> Sciecence outreach</span>
+## <span style="color:teal; font-family:cursive;font-size: 20px;"> Science outreach</span>
 ### <span style="color:teal; font-family:cursive;font-size: 15px;"> St. Louis Science Center Outreach</span>
 Lew lab had a science table at the St. Louis Science Center for demonstrating Lewlab's research to more than ~200 visitors. We demonstrated 1) how we leverage fluorescence to see things in the dark, and 2) how we achieve high resolution using single-molecule imaging through a playing game.
 

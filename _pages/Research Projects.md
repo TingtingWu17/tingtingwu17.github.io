@@ -7,8 +7,8 @@ classes: wide
 ---
 # <span style="color:black; font-family:cursive;font-size: 30px;">Single-Molecule Orientation Localization Microscopy</span>
 
-Fluorescence imaging measures the spatial structure of targets by tagging imaging targets with fluorescent probes and measuring __where__ lights come from.  
-In my projects, I measure not only __where__ lights come from, but allow __the structure__ of lights, which gives information of how fluorescent emitters interacts with imaging targets, e.g. the __binding direction (3D orientation)__ of fluorescence probes to target structure.
+Traditional fluorescence imaging measures the spatial structure of targets by focusing on measuring __where__ lights come from.  
+In my projects, I measure both __where__ lights come from and the __shape__ of lights. This measurement gives us information on how fluorescent emitters interact with imaging targets, e.g. the __binding direction (3D orientation)__ of fluorescence probes to target structure.
 
 <!-- <figure>
   <img src="{{ '_pages/amyloid_example.png' | relative_url }}"  alt="amyloid image">

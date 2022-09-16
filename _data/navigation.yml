@@ -2,11 +2,13 @@
 main:
   - title: "Research Project"
     url: _pages/research-projects
+  - title: "Science Community"
+    url: /_pages/science-community
   - title: "Publications"
     url: /_pages/publications
   - title: "Awards"
     url: _pages/awards
-  - title: "Other Activities"
-    url: _pages/other-activities
+  # - title: "Other Activities"
+  #   url: _pages/other-activities
   - title: "CV"
     url: "_pages/files/TingtingWu_CV _2022Aug.pdf"

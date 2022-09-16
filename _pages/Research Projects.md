@@ -94,5 +94,9 @@ VUB enables us to realize that the polarized standard PSF (polar) provides super
 
 <span style="color:teal; font-family:cursive;font-size: 15px;">__Tingting Wu__, Linlin Xu, and Xinhai Zhang. Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).</span>
 
-details upcoming
+
+<img src="/_pages/files/fiber_sensor_image.jpg" align="right" width="500px"/>
+In this project, we designed a refractive index sensor by creating U-shaped optical fibers. The interference between the lights in the cladding mode and core mode, the optical fiber show different interference valley for solution with different refractive indexes.
+
+<br clear="left"/>
 

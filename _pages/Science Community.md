@@ -9,29 +9,27 @@ classes: wide
 
 I enjoy finding ways to facilite better science communications. 
 
-
-
-
 ### <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science student seminar</span>
+
+<img src="/_pages/files/IS_student_seminar_team.jpg" align="right" width="200px"/>
 WashU is especially strong in imaging sceince. We have PhDs from many departments and all working on researches related to imaging science.
 
 Together with Aahana Bajracharya, Maria Medrano, and Chunhui Yang, we initiated monthly __imaging science student seminar__ in the fall of 2019. We invited PhD students from different programs to share their awesome imaging researches to our audience, e.g., MRI, CT, OCT, fluorescnece imaging, machine learning on imaging ...
 
 We also build our own website for sharing the recorded presentations. [Website](https://sites.wustl.edu/imagingscienceseminar/)
-
-<img src="/_pages/files/IS_student_seminar_team.jpg" width="400" height="400" />
-
+<br clear="left"/>
 
 ### <span style="color:teal; font-family:cursive;font-size: 20px;">Imaging science pathway retreat</span>
+<img src="/_pages/files/ISP_preparsion_committee.jpg" align="right" width="200px"/>
+detail upcoming
+<br clear="left"/>
+
+
+
+### <span style="color:teal; font-family:cursive;font-size: 20px;">St. Louis Science Center Outreach & Science Coach Program in WashU</span>
 details upcoming
 
 
-
-### <span style="color:teal; font-family:cursive;font-size: 20px;">St. Louis Science Center Outreach</span>
-details upcoming
-
-### <span style="color:teal; font-family:cursive;font-size: 20px;">Science Coach Program in WashU</span>
-details upcoming
 
 
 

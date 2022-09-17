@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-# <span style="color:black; font-family:Comic Sans MS;font-size: 30px;">TestSingle-Molecule Orientation Localization Microscopy</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 30px;">Single-Molecule Orientation Localization Microscopy</span>
 
 Traditional fluorescence imaging measures the spatial structure of targets by focusing on measuring __where__ lights come from.  
 In my projects, I measure both __where__ lights come from and the __shape__ of lights. This measurement gives us information on how fluorescent emitters interact with imaging targets, e.g. the __binding direction (3D orientation)__ of fluorescence probes to target structure.
@@ -32,9 +32,9 @@ The optimized microscope enables us to simultaneously measure the 3D position an
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Deep-learning based estimation algorithm design</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Deep-learning based estimation algorithm design</span>
 
-<span style="color:teal; font-family:cursive;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express (2022). [[Article]](http://dx.doi.org/10.1101/2022.07.31.502237) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/). </span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express (2022). [[Article]](http://dx.doi.org/10.1101/2022.07.31.502237) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/). </span>
 
 Using engineered PSF, emitters with different orientations will generate PSFs with different shapes on our camera. In this work, we design a deep-learning-based algorithm to estimate the 3D orientation and 2D position from the noise-crrupted PSFs. 
 
@@ -45,15 +45,15 @@ Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) handling ov
 <img src="/_pages/files/Deep-SMOLM one slide summary.jpg" width="800" height="800" />
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Adaptive microscopy design</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Adaptive microscopy design</span>
 
-<span style="color:teal; font-family:cursive;font-size: 15px;"> ongoing project, more details will be added later </span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;"> ongoing project, more details will be added later </span>
 
 Most of the microsocpes are fixed once built. In this project, we configure the strucuture of the microscope to adapt to the current measurement to achieve better imaging. 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Mapping dynamic and heterogeneous 6D network of bio-condensates </span>
-<span style="color:teal; font-family:cursive;font-size: 15px;"> paper is under written, more details will be added later </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping dynamic and heterogeneous 6D network of bio-condensates </span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;"> paper is under written, more details will be added later </span>
 
 Biomolecular condensates are formed by proteins and nucleic acids and are liquid-like, membraneless structures that play critical roles in various cellular activities such as gene regulation, cell-cell signaling, and actin assembly. The mechanisms of how condensates form and dissolve, which can be viewed as the network architecture formed by interactions between proteins, are not well understood. 
 
@@ -61,9 +61,9 @@ In this project, we use single molecule techniques to study the internal archete
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Evaluation metric design based on information theory </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Evaluation metric design based on information theory </span>
 
-<span style="color:teal; font-family:cursive;font-size: 15px;">Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. Optica 7.6
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. Optica 7.6
 (2020) [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a) [[Summary slide]](/_pages/files/summary page_optica_VUB_TAB.png)</span>
 
 
@@ -72,14 +72,14 @@ VUB, the global upper bound of Cramér-Rao bound (CRB) for all possible molecula
 
 VUB enables us to realize that the polarized standard PSF (polar) provides superior measurement precision when molecules are near a refractive index (RI) interface. We then used the polarized standard PSF to measure the 3D orientation and 2D position of Nile red that transiently bind to the amyloid fibril.
 
-<span style="color:black;font-size: 15px;font-family:cursive;" align = "center"> Orientations of indivual Nile reds on amyloid fibril </span>
+<span style="color:black;font-size: 15px;font-family:Comic Sans MS;" align = "center"> Orientations of indivual Nile reds on amyloid fibril </span>
 <img src="/_pages/files/TAB_flyover.gif" width="600" height="600"  />
 
 <span style="color:gray;font-size: 15px;" align="right"> Image credit to Prof. Matthew D. Lew and Dr. Tianben Ding </span>
 
 <!-- <p align = "left">
 <p align = "center">
-<span style="color:black;font-size: 15px;font-family:cursive;"> Orientations of indivual Nile reds on amyloid fibril </span>
+<span style="color:black;font-size: 15px;font-family:Comic Sans MS;"> Orientations of indivual Nile reds on amyloid fibril </span>
 <p align = "left">
 <img src="/_pages/files/TAB_flyover.gif" width="800" height="800" />
 </p>
@@ -90,9 +90,9 @@ VUB enables us to realize that the polarized standard PSF (polar) provides super
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Optical fiber sensor </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Optical fiber sensor </span>
 
-<span style="color:teal; font-family:cursive;font-size: 15px;">__Tingting Wu__, Linlin Xu, and Xinhai Zhang. Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).</span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__Tingting Wu__, Linlin Xu, and Xinhai Zhang. Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).</span>
 
 
 <img src="/_pages/files/fiber_sensor_image.jpg" align="right" width="500px"/>

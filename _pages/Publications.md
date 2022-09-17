@@ -9,8 +9,8 @@ classes: wide
 
 ____
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Refereed Publications</span>
- <span style="color:teal; font-family:cursive;font-size: 15px;">†equally contributed</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Refereed Publications</span>
+ <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">†equally contributed</span>
 
 [7] __TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Deep Learning
 Resolves the 3D Orientations and 2D Positions of Overlapping Single Molecules with Optimal Nanoscale
@@ -37,7 +37,7 @@ bent fiber”. In: Journal of Physics Communications 2.6 (2018), p. 065009. [[Ar
 properties of SnSe polycrystals via texture control”. In: Physical Chemistry Chemical Physics 18.46
 (2016), pp. 31821–31827. issn: 1463-9076. [[Article]](http://dx.doi.org/10.1039/C6CP06466C).
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Other Publications</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Other Publications</span>
 
 [2] __Tingting Wu__, Jin Lu, and Matthew Lew. “pixOL: pixel-wise point spread function engineering for measuring
 the 3D orientation and 3D location of dipole-like emitters”. In: vol. 27. S1. Cambridge University Press, 2021,

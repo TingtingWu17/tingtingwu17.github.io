@@ -16,11 +16,11 @@ I enjoy communicating my science using different languages when facing different
 ### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">Imaging science student seminar initiator and chair</span>
 
 <img src="/_pages/files/IS_student_seminar_team.jpg" align="right" width="200px"/>
-WashU has PhDs from many departments and is working on imaging science-related research, e.g., MRI, CT, OCT, fluorescence imaging, machine learning on imaging ...
+WashU has PhDs from many departments and they are working on various imaging-related research, e.g., MRI, CT, OCT, fluorescence imaging, machine learning on imaging ...
 
 Together with Aahana Bajracharya, Maria Medrano, and Chunhui Yang, we initiated monthly imaging science student seminars starting in the fall of 2019. We invited Ph.D. students from different programs to share their awesome imaging research with our audiences. Till the end of April 2022, we already hold around 20 seminars.
 
-During the pandemic time, we decided to build our ['imaging science library](https://sites.wustl.edu/imagingscienceseminar/) where we shared our presenters' presentations after their seminars. We hope this library will help new students find the labs they are interested in, and help existing students know more about the imaging science happening at WashU. 
+During the pandemic time, we decided to build our ['imaging science library'](https://sites.wustl.edu/imagingscienceseminar/) where we shared our presenters' presentations after their seminars. We hope this library will help new students find the labs they are interested in, and help existing students know more about the imaging science happening at WashU. 
 <br clear="left"/>
 
 ### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">Imaging science pathway retreat committee</span>
@@ -31,11 +31,11 @@ As a committee member, I helped to organize the annually imaging science pathway
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;"> Science outreach</span>
-### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;"> St. Louis Science Center Outreach</span>
+### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;"> St. Louis science center outreach</span>
 Lew lab had a science table at the St. Louis Science Center for demonstrating Lewlab's research to more than ~200 visitors. We demonstrated 1) how we leverage fluorescence to see things in the dark, and 2) how we achieve high resolution using single-molecule imaging through a playing game.
 
 
-### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;"> Science Coach Program in WashU</span>
+### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;"> Science coach program in WashU</span>
 <img src="/_pages/files/Science_coach.jpg" align="right" width="200px"/>
 I am a science coach in the event organized by Association of Graduate Engineering Students (AGES) at WashU.
 
@@ -64,7 +64,7 @@ This is my first time giving a lecture about Fourier optics, and I was thrilled 
 
 <br clear="left"/>
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">WashU Engineering School Calendar</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">WashU engineering school calendar</span>
 
 ![image](/_pages/files/Lewlab_calendar_v2.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }The pixOL microscope enables super-resolution imaging of the 3D locations and 3D orientations of fluorescent molecules. The 6-dimensional images from pixOL depict Nile red molecules (NR, red bars) as they transiently bind to a spherical lipid bilayer (SLB, gray structures around the sphere). The top two rows show the orientations of NR (each line represents the long axis of the molecule) at different z-slices through the sphere (left to right). With cholesterol (aqua ellipses) present in the SLB, we observe that NR becomes more ordered and perpendicular to the sphere (top row); without cholesterol present to organize the membrane, NR exhibits various orientations (second row). Scale bar: 400 nm.
 

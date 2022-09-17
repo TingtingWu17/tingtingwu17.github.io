@@ -60,18 +60,11 @@ This is my first time giving a lecture about Fourier optics, and I was thrilled 
 ## <span style="color:teal; font-family:cursive;font-size: 20px;">Science artworks</span>
 ## <span style="color:teal; font-family:cursive;font-size: 15px;">Science image</span>
 
-<img src="/_pages/files/Optica-pixOL-cover art4.jpg" align="center" width="400px"/>
-
-<span style= "font-size: 13px;">Nile red, a fluorescent emitter, transiently binds to the lipid bilayers at a certain orientation and emit fluorescence light. Our pixel-wise optimized phase mask is placed at the back focal plane of the microscope to modulate the phase of fluorescence light. After modulation, the shape of point spread function enables us to measure the 3D orientation and 3D position of Nile red simultaneously. </span>
-<br clear="left"/>
+![image](/_pages/files/Optica-pixOL-cover art4.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }Nile red, a fluorescent emitter, transiently binds to the lipid bilayers at a certain orientation and emit fluorescence light. Our pixel-wise optimized phase mask is placed at the back focal plane of the microscope to modulate the phase of fluorescence light. After modulation, the shape of point spread function enables us to measure the 3D orientation and 3D position of Nile red simultaneously.
 
 
-## <span style="color:teal; font-family:cursive;font-size: 15px;">WashU Engineering Calendar</span>
 
-<img src="/_pages/files/Lewlab_calendar_v2.jpg" align="center" width="400px"/>
+## <span style="color:teal; font-family:cursive;font-size: 15px;">WashU Engineering School Calendar</span>
 
-<span style= "font-size: 13px;">The pixOL microscope enables super-resolution imaging of the 3D locations and 3D orientations of fluorescent molecules. The 6-dimensional images from pixOL depict Nile red molecules (NR, red bars) as they transiently bind to a spherical lipid bilayer (SLB, gray structures around the sphere). The top two rows show the orientations of NR (each line represents the long axis of the molecule) at different z-slices through the sphere (left to right). With cholesterol (aqua ellipses) present in the SLB, we observe that NR becomes more ordered and perpendicular to the sphere (top row); without cholesterol present to organize the membrane, NR exhibits various orientations (second row). Scale bar: 400 nm.</span>
-
-
-<br clear="left"/>
+![image](/_pages/files/Lewlab_calendar_v2.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }The pixOL microscope enables super-resolution imaging of the 3D locations and 3D orientations of fluorescent molecules. The 6-dimensional images from pixOL depict Nile red molecules (NR, red bars) as they transiently bind to a spherical lipid bilayer (SLB, gray structures around the sphere). The top two rows show the orientations of NR (each line represents the long axis of the molecule) at different z-slices through the sphere (left to right). With cholesterol (aqua ellipses) present in the SLB, we observe that NR becomes more ordered and perpendicular to the sphere (top row); without cholesterol present to organize the membrane, NR exhibits various orientations (second row). Scale bar: 400 nm.
 

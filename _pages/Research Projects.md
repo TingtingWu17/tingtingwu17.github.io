@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-# <span style="color:black; font-family:cursive;font-size: 30px;">Single-Molecule Orientation Localization Microscopy</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 30px;">Single-Molecule Orientation Localization Microscopy</span>
 
 Traditional fluorescence imaging measures the spatial structure of targets by focusing on measuring __where__ lights come from.  
 In my projects, I measure both __where__ lights come from and the __shape__ of lights. This measurement gives us information on how fluorescent emitters interact with imaging targets, e.g. the __binding direction (3D orientation)__ of fluorescence probes to target structure.
@@ -18,9 +18,9 @@ Amyloid fibril is composed with beta sheet structure -->
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Point spread function engineering</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Point spread function engineering</span>
 
-<span style="color:teal; font-family:cursive;font-size: 15px;">__Tingting Wu__, Jin Lu, and Matthew D. Lew. Optica (2022). [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV) [[Summary video]](/_pages/files/pixOL summary  video.mp4) </span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__Tingting Wu__, Jin Lu, and Matthew D. Lew. Optica (2022). [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV) [[Summary video]](/_pages/files/pixOL summary  video.mp4) </span>
 
 
 In this work, we "ruin" the microscope to generate point spread functions (PSFs) that deviate from the traditional Gaussian pattern.

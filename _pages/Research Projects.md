@@ -40,7 +40,7 @@ Using engineered PSF, emitters with different orientations will generate PSFs wi
 
 We smartly designed our network to handle this high dimensional estimation challenge: 1) __we encode the 3D orientation and 2D position orthogonally__ into the spatial position and intensity of the gaussian patterns on the output images; 2) __we leverage the forward model__ to output the orientational second moments instead of the three orientation angles.  
 
-Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) estimating overlapped emitters, 2) outputting precisions close to optimal due to its ability to give global minima instead of sticking in the local minima, and 3) ~10 times faster estimation speed.
+Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) estimating overlapped emitters, 2) outputting precisions close to optimal due to its ability to give global minima instead of traping in the local minima, and 3) ~10 times faster estimation speed.
 
 <img src="/_pages/files/Deep-SMOLM one slide summary.jpg" width="800" height="800" />
 

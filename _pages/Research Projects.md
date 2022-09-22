@@ -34,7 +34,7 @@ The optimized microscope enables us to simultaneously measure the 3D position an
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Deep-learning based estimation algorithm design</span>
 
-<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express, in print (2022). [[Article]](http://dx.doi.org/10.1101/2022.07.31.502237) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/). </span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express, in print (2022). [[Article]](https://doi.org/10.1364/OE.470146) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/). </span>
 
 Using engineered PSF, emitters with different orientations will generate PSFs with different shapes on our camera. In this work, we design a deep-learning-based algorithm to estimate the 3D orientation and 2D position from the noise-crrupted PSFs. 
 

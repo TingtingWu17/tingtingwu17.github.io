@@ -64,7 +64,7 @@ In this project, we use single molecule techniques to study the internal archete
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Evaluation metric design based on information theory </span>
 
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. Optica 7.6
-(2020) [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a) [[Summary slide]](/_pages/files/summary page_optica_VUB_TAB.png).</span>
+(2020) [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a) [[Summary slide]](/_pages/files/summary page_optica_VUB_TAB.png)</span>
 
 
 In this project, we developed a metric, termed variance upper bound (VUB), to quickly select the best microscope for single-molecule orientation measurements.

@@ -13,7 +13,7 @@ I enjoy communicating my science using different languages when facing different
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Building science communication platforms</span>
-### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">Imaging science student seminar initiator and chair</span>
+### <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">Imaging science student seminar initiator and co-chair</span>
 
 <img src="/_pages/files/IS_student_seminar_team.jpg" align="right" width="200px"/>
 WashU has PhDs from many departments and they are working on various imaging-related research, e.g., MRI, CT, OCT, fluorescence imaging, machine learning on imaging ...

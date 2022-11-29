@@ -42,11 +42,11 @@ properties of SnSe polycrystals via texture control”. __Physical Chemistry Che
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Other Publications</span>
 
-[2] __Tingting Wu__, Jin Lu, and Matthew Lew. “pixOL: pixel-wise point spread function engineering for measuring
+[2] __T. Wu__, J. Lu, and M. D. Lew. “pixOL: pixel-wise point spread function engineering for measuring
 the 3D orientation and 3D location of dipole-like emitters”. In: vol. 27. S1. Cambridge University Press, 2021,
 pp. 858–862. [[Article]](http://dx.doi.org/10.1017/S1431927621003366).
 
-[1] __Tingting Wu__, Tianben Ding, Hesam Mazidi, Oumeng Zhang, and Matthew D. Lew. “A computationallyefficient
+[1] __T. Wu__, T. Ding, H. Mazidi, O. Zhang, and M. D. Lew. “A computationallyefficient
 bound for the variance of measuring the orientation of single molecules”. In: Single Molecule Spectroscopy
 and Superresolution Imaging XIII. Vol. 1124616. February. SPIE, 2020, p. 35. [[Article]](http://dx.doi.org/10.1117/12.
 2543813).

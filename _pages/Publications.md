@@ -12,29 +12,32 @@ ____
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Refereed Publications</span>
  <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">†equally contributed</span>
 
-[7] __TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. “Deep-SMOLM: Deep Learning
+
+[8] __T. Wu__, M.R. King, M. Farag, R. V. Pappue, and M. D. Lew. “Mapping inhomogeneous network structures within biomolecular condensate using single-molecule imaging and tracking of fluorogenic probes”. __Under
+Written__ (December 2022, expected).
+
+[7] O. Zhang, Z. Guo, Y. He, __T. Wu__, Michael D Vahey, and Matthew D Lew. “Six Dimensional Single-Molecule Imaging with Isotropic Resolution using a Multi-View Reflector Microscope”. __Nature Photonics__ (in print, 2022). [[Article]](http://dx.doi.org/10.1101/2022.06.26.497661).
+
+[6] __T. Wu__, P. Lu†, M. A. Rahman†, X. Li†, and M. D. Lew. “Deep-SMOLM: Deep Learning
 Resolves the 3D Orientations and 2D Positions of Overlapping Single Molecules with Optimal Nanoscale
-Resolution”. In: Optics Express (2022), p. 2022.07.31.502237. [[Article]](https://doi.org/10.1364/OE.470146) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/) [[Summary video]](/_pages/files/Deep-SMOLM summary video-final.mp4).
+Resolution”. __Optics Express__ (2022), p. 2022.07.31.502237. [[Article]](https://doi.org/10.1364/OE.470146) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/) [[Summary video]](/_pages/files/Deep-SMOLM summary video-final.mp4).
 
+[5] __T. Wu__, J. Lu, and M. D. Lew. “Dipole-spread-function engineering for simultaneously measuring
+the 3D orientations and 3D positions of fluorescent molecules”. __Optica__ 9.5 (2022), p. 505. [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV) [[Summary video]](/_pages/files/pixOL summary  video.mp4).
 
-[6] Oumeng Zhang, Zijian Guo, Yuanyuan He, __Tingting Wu__, Michael D Vahey, and Matthew D Lew. “Six Dimensional Single-Molecule Imaging with Isotropic Resolution using a Multi-View Reflector Microscope”. In: bioRxiv (2022). [[Article]](http://dx.doi.org/10.1101/2022.06.26.497661).
-
-[5] __Tingting Wu__, Jin Lu, and Matthew D. Lew. “Dipole-spread-function engineering for simultaneously measuring
-the 3D orientations and 3D positions of fluorescent molecules”. In: Optica 9.5 (2022), p. 505. [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV) [[Summary video]](/_pages/files/pixOL summary  video.mp4).
-
-[4] Oumeng Zhang, Weiyan Zhou, Jin Lu, __Tingting Wu__, and Matthew D. Lew. “Resolving the three-dimensional
+[4] O. Zhang, W. Zhou, J. Lu, __T. Wu__, and Matthew D. Lew. “Resolving the three-dimensional
 rotational and translational dynamics of single molecules using radially and azimuthally polarized fluorescence”.
-In: Nano Letters 22.3 (2022), pp. 1024–1031. [[Article]](http://dx.doi.org/10.1021/acs.nanolett.1c03948).
+__Nano Letters__ 22.3 (2022), pp. 1024–1031. [[Article]](http://dx.doi.org/10.1021/acs.nanolett.1c03948).
 
-[3] Tianben Ding†, __Tingting Wu__†, Hesam Mazidi, Oumeng Zhang, and Matthew Lew. “Single-molecule orientation
-localization microscopy for resolving structural heterogeneities within amyloid fibrils”. In: Optica 7.6
+[3] T. Ding†, __T. Wu__†, H. Mazidi, O. Zhang, and M. D. Lew. “Single-molecule orientation
+localization microscopy for resolving structural heterogeneities within amyloid fibrils”. __Optica__ 7.6
 (2020), pp. 602–607. [[Article]](http://dx.doi.org/10.1364/optica.388157) [[Data&Code]](https://osf.io/pe3qu/?view_only=081206495472426889c1055f21971e9a) [[Summary slide]](/_pages/files/summary page_optica_VUB_TAB.png).
 
-[2] __Tingting Wu__, Linlin Xu, and Xinhai Zhang. “High sensitivity refractive index sensor based on the semicircular
-bent fiber”. In: Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).
+[2] __T. Wu__, L. Xu, and X. Zhang. “High sensitivity refractive index sensor based on the semicircular
+bent fiber”. __Journal of Physics Communications__ 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).
 
-[1] Dan Feng, Zhen-Hua Ge, Di Wu, Yue-Xing Chen, __Tingting Wu__, Ju Li, and Jiaqing He. “Enhanced thermoelectric
-properties of SnSe polycrystals via texture control”. In: Physical Chemistry Chemical Physics 18.46
+[1] D. Feng, Z. Ge, D. Wu, Y. Chen, __T. Wu__, Ju Li, and J. He. “Enhanced thermoelectric
+properties of SnSe polycrystals via texture control”. __Physical Chemistry Chemical Physics__ 18.46
 (2016), pp. 31821–31827. issn: 1463-9076. [[Article]](http://dx.doi.org/10.1039/C6CP06466C).
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Other Publications</span>

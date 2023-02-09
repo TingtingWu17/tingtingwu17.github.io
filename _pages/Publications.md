@@ -13,10 +13,9 @@ ____
  <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">†equally contributed</span>
 
 
-[8] __T. Wu__, M.R. King, M. Farag, R. V. Pappue, and M. D. Lew. “Mapping inhomogeneous network structures within biomolecular condensate using single-molecule imaging and tracking of fluorogenic probes”. __Under
-Written__ (December 2022, expected).
+[8] __T. Wu__, M.R. King, M. Farag, R. V. Pappue, and M. D. Lew. “Single fluorogen imaging reveals spatial inhomogeneities within biomolecular condensates”. __BioRxiv__ (2023). [[Article]](https://www.biorxiv.org/content/10.1101/2023.01.26.525727v1).
 
-[7] O. Zhang, Z. Guo, Y. He, __T. Wu__, Michael D Vahey, and Matthew D Lew. “Six Dimensional Single-Molecule Imaging with Isotropic Resolution using a Multi-View Reflector Microscope”. __Nature Photonics__ (in print, 2022). [[Article]](http://dx.doi.org/10.1101/2022.06.26.497661).
+[7] O. Zhang, Z. Guo, Y. He, __T. Wu__, Michael D Vahey, and Matthew D Lew. “Six Dimensional Single-Molecule Imaging with Isotropic Resolution using a Multi-View Reflector Microscope”. __Nature Photonics__ (2022). [[Article]](https://www.nature.com/articles/s41566-022-01116-6).
 
 [6] __T. Wu__, P. Lu†, M. A. Rahman†, X. Li†, and M. D. Lew. “Deep-SMOLM: Deep Learning
 Resolves the 3D Orientations and 2D Positions of Overlapping Single Molecules with Optimal Nanoscale

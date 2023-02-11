@@ -32,17 +32,17 @@ The optimized microscope enables us to simultaneously measure the 3D position an
 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Deep-learning based estimation algorithm design</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Estimation algorithm design</span>
 
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express, in print (2022). [[Article]](https://doi.org/10.1364/OE.470146) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/) [[Summary video]](/_pages/files/Deep-SMOLM summary video-final.mp4) </span>
 
-Using engineered PSF, emitters with different orientations will generate PSFs with different shapes on our camera. In this work, we design a deep-learning-based algorithm to estimate the 3D orientation and 2D position from the noise-crrupted PSFs. 
+Using engineered PSF, emitters with different orientations will generate PSFs with different shapes on our camera. In this work, we design an algorithm to estimate the 3D orientation and 2D position from the noise-crrupted PSFs. 
 
-We smartly designed our network to handle this high dimensional estimation challenge: 1) __we encode the 3D orientation and 2D position orthogonally__ into the spatial position and intensity of the gaussian patterns on the output images; 2) __we leverage the forward model__ to output the orientational second moments instead of the three orientation angles.  
+We smartly designed our algorithm to handle this high dimensional estimation challenge: 1) __we encode the 3D orientation and 2D position orthogonally__ into the spatial position and intensity of the gaussian patterns on the output images; 2) __we leverage the forward model__ to output the orientational second moments instead of the three orientation angles.  
 
 Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) estimating overlapped emitters, 2) outputting precisions close to optimal due to its ability to give global minima instead of traping in the local minima, and 3) ~10 times faster estimation speed.
 
-<img src="/_pages/files/Deep-SMOLM one slide summary.jpg" width="800" height="800" />
+<img src="/_pages/files/Deep-SMOLM_summary_slides_visa.jpg" width="800" height="800" />
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Adaptive microscopy design</span>

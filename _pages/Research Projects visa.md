@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Research Projectsdd"
 permalink: /_pages/research-projects-1/
 layout: single
 author_profile: true

@@ -52,14 +52,14 @@ Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) estimating 
 Most of the microsocpes are fixed once built. In this project, we configure the strucuture of the microscope to adapt to the current measurement to achieve better imaging. 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping dynamic and heterogeneous 6D network of bio-condensates </span>
-<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;"> paper is under written, more details will be added later </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping heterogeneities inside biomolecule condensates using single molecule imaging and flurogenic probes </span>
+<span style="color:teal; font-family:Comic Sans MS;font-size: 15px;"> __T. Wu__, M.R. King, M. Farag, R. V. Pappue, and M. D. Lew. “Single fluorogen imaging reveals spatial inhomogeneities within biomolecular condensates”. __BioRxiv__ (2023). [[Article]](https://www.biorxiv.org/content/10.1101/2023.01.26.525727v1). </span>
 
-Biomolecular condensates are formed by proteins and nucleic acids and are liquid-like, membraneless structures that play critical roles in various cellular activities such as gene regulation, cell-cell signaling, and actin assembly. The mechanisms of how condensates form and dissolve, which can be viewed as the network architecture formed by interactions between proteins, are not well understood. 
+Biomolecular condensates provide spatial and temporal control over biochemical reactions. Due to the high dynamic feature of condensates both spatially and temporally, the structures inside condensates haven't been well explored 
 
-In this project, we use single molecule techniques to study the internal archetecture of biomolecular condensates.
+In this project, we deployed Nile blue (NB), Nile red (NR), and merocyanine 540 (MC540) for epifluorescence and single-molecule localization microscopy imaging of condensates formed by intrinsically disordered, low-complexity domains of proteins. Imaging with NB reveals internal environments that are uniformly hydrophobic, whereas NR shows preferential binding to hubs that are more hydrophobic than the surrounding background within condensates. Finally, imaging with MC540 suggests that interfaces of condensates are unique chemical environments. Overall, the high spatiotemporal resolution and environmental sensitivity of single-fluorogen imaging reveals spatially inhomogeneous organization of molecules within condensates.
 
-
+<img src="/_pages/files/A1-LCD.jpg" width="800" height="800" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Evaluation metric design based on information theory </span>
 

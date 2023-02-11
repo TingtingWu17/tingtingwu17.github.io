@@ -52,7 +52,7 @@ Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) estimating 
 Most of the microsocpes are fixed once built. In this project, we configure the strucuture of the microscope to adapt to the current measurement to achieve better imaging. 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping heterogeneities inside biomolecule condensates using single molecule imaging and flurogenic probes </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping heterogeneities inside biomolecule condensates using single molecule imaging and fluorogenic probes </span>
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;"> __T. Wu__, M.R. King, M. Farag, R. V. Pappue, and M. D. Lew, __BioRxiv__ (2023). [[Article]](https://www.biorxiv.org/content/10.1101/2023.01.26.525727v1). </span>
 
 Biomolecular condensates provide spatial and temporal control over biochemical reactions. Due to the high dynamic feature of condensates both spatially and temporally, the structures inside condensates haven't been well explored 

@@ -51,6 +51,8 @@ This is my first time giving a lecture about Fourier optics, and I was thrilled 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Tingting's research on News</span>
 
+[Machine learning generates pictures of proteins in 5D](https://engineering.wustl.edu/news/2022/Machine-learning-generates-pictures-of-proteins-in-5D.html)
+
 [Lew lab sheds new light on cell membranes](https://engineering.wustl.edu/news/2022/Lew-lab-sheds-new-light-on-cell-membranesnews.html)
 
 [New microscopy method provides unprecedented look at amyloid protein structure](https://engineering.wustl.edu/news/2020/New-microscopy-method-provides-unprecedented-look-at-amyloid-protein-structure.html)

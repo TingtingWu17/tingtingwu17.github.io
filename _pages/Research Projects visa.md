@@ -1,6 +1,6 @@
 ---
 title: "Research Projectsdd"
-permalink: /_pages/research-projects-1/
+permalink: /_pages/research-projects/
 layout: single
 author_profile: true
 classes: wide
@@ -18,7 +18,7 @@ Amyloid fibril is composed with beta sheet structure -->
 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Point spread function engineering</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Point spread function engineering for optical microscopy</span>
 
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__Tingting Wu__, Jin Lu, and Matthew D. Lew. Optica (2022). [[Article]](http://dx.doi.org/10.1364/optica.451899) [[Data&Code]](https://doi.org/10.17605/OSF.IO/97GMV) [[Summary video]](/_pages/files/pixOL summary  video.mp4) </span>
 
@@ -32,7 +32,7 @@ The optimized microscope enables us to simultaneously measure the 3D position an
 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Estimation algorithm design</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Imaging estimation algorithm design</span>
 
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__TingtingWu__, Peng Lu†, Md Ashequr Rahman†, Xiao Li†, and Matthew D. Lew. Optics Express, in print (2022). [[Article]](https://doi.org/10.1364/OE.470146) [[Code]](https://github.com/Lew-Lab/Deep-SMOLM) [[Data]](https://osf.io/x6p8r/) [[Summary video]](/_pages/files/Deep-SMOLM summary video-final.mp4) </span>
 
@@ -52,14 +52,14 @@ Deep-SMOLM outwins the iterative estimation algorithm in terms of 1) estimating 
 Most of the microsocpes are fixed once built. In this project, we configure the strucuture of the microscope to adapt to the current measurement to achieve better imaging. 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping heterogeneities inside biomolecule condensates using single molecule imaging and fluorogenic probes </span>
+<!-- ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Mapping heterogeneities inside biomolecule condensates using single molecule imaging and fluorogenic probes </span>
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;"> __T. Wu__, M.R. King, M. Farag, R. V. Pappue, and M. D. Lew, __BioRxiv__ (2023). [[Article]](https://www.biorxiv.org/content/10.1101/2023.01.26.525727v1). </span>
 
 Biomolecular condensates provide spatial and temporal control over biochemical reactions. Due to the high dynamic feature of condensates both spatially and temporally, the structures inside condensates haven't been well explored 
 
 In this project, we deployed Nile blue (NB), Nile red (NR), and merocyanine 540 (MC540) for epifluorescence and single-molecule localization microscopy imaging of condensates formed by intrinsically disordered, low-complexity domains of proteins. Imaging with NB reveals internal environments that are uniformly hydrophobic, whereas NR shows preferential binding to hubs that are more hydrophobic than the surrounding background within condensates. Finally, imaging with MC540 suggests that interfaces of condensates are unique chemical environments. Overall, the high spatiotemporal resolution and environmental sensitivity of single-fluorogen imaging reveals spatially inhomogeneous organization of molecules within condensates.
 
-<img src="/_pages/files/A1-LCD.jpg" width="800" height="800" />
+<img src="/_pages/files/A1-LCD.jpg" width="800" height="800" /> -->
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Evaluation metric design based on information theory </span>
 
@@ -72,10 +72,10 @@ VUB, the global upper bound of Cramér-Rao bound (CRB) for all possible molecula
 
 VUB enables us to realize that the polarized standard PSF (polar) provides superior measurement precision when molecules are near a refractive index (RI) interface. We then used the polarized standard PSF to measure the 3D orientation and 2D position of Nile red that transiently bind to the amyloid fibril.
 
-<span style="color:black;font-size: 15px;font-family:Comic Sans MS;" align = "center"> Orientations of indivual Nile reds on amyloid fibril </span>
-<img src="/_pages/files/TAB_flyover.gif" width="600" height="600"  />
+<!-- <span style="color:black;font-size: 15px;font-family:Comic Sans MS;" align = "center"> Orientations of indivual Nile reds on amyloid fibril </span>
+<img src="/_pages/files/TAB_flyover.gif" width="600" height="600"  /> -->
 
-<span style="color:gray;font-size: 15px;" align="right"> Image credit to Prof. Matthew D. Lew and Dr. Tianben Ding </span>
+<!-- <span style="color:gray;font-size: 15px;" align="right"> Image credit to Prof. Matthew D. Lew and Dr. Tianben Ding </span> -->
 
 <!-- <p align = "left">
 <p align = "center">
@@ -90,13 +90,13 @@ VUB enables us to realize that the polarized standard PSF (polar) provides super
 
 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Optical fiber sensor </span>
+<!-- ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Optical fiber sensor </span>
 
 <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">__Tingting Wu__, Linlin Xu, and Xinhai Zhang. Journal of Physics Communications 2.6 (2018), p. 065009. [[Article]](http://dx.doi.org/10.1088/2399-6528/aacb0b).</span>
 
 
 <img src="/_pages/files/fiber_sensor_image.jpg" align="right" width="500px"/>
-In this project, we designed a refractive index sensor by creating U-shaped optical fibers. The interference between the lights in the cladding mode and core mode, the optical fiber show different interference valley for solution with different refractive indexes.
+In this project, we designed a refractive index sensor by creating U-shaped optical fibers. The interference between the lights in the cladding mode and core mode, the optical fiber show different interference valley for solution with different refractive indexes. -->
 
 <br clear="left"/>
 

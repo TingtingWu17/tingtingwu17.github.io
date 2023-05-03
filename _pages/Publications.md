@@ -9,7 +9,7 @@ classes: wide
 
 ____
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Refereed Publications</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Journal Publications</span>
  <span style="color:teal; font-family:Comic Sans MS;font-size: 15px;">†equally contributed</span>
 
 
@@ -41,7 +41,7 @@ bent fiber”. __Journal of Physics Communications__ 2.6 (2018), p. 065009. [[Ar
 properties of SnSe polycrystals via texture control”. __Physical Chemistry Chemical Physics__ 18.46
 (2016), pp. 31821–31827. issn: 1463-9076. [[Article]](http://dx.doi.org/10.1039/C6CP06466C).
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Other Publications</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Conference Publications</span>
 
 [2] __T. Wu__, J. Lu, and M. D. Lew. “pixOL: pixel-wise point spread function engineering for measuring
 the 3D orientation and 3D location of dipole-like emitters”. In: vol. 27. S1. Cambridge University Press, 2021,
@@ -51,3 +51,17 @@ pp. 858–862. [[Article]](http://dx.doi.org/10.1017/S1431927621003366).
 bound for the variance of measuring the orientation of single molecules”. In: Single Molecule Spectroscopy
 and Superresolution Imaging XIII. Vol. 1124616. February. SPIE, 2020, p. 35. [[Article]](http://dx.doi.org/10.1117/12.
 2543813).
+
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Patents</span>
+
+[2] M. D. Lew and __T. Wu__. “Pixel-Wise Point Spread Function Engineering Systems And Methods”. In: United
+States Patent Application (17/880,648, 2023).
+
+[1] M. D. Lew, __T. Wu__, and T. Ding. “Systems and Methods for Performing Optical Imaging Using Duo-Spot
+Point Spread Functions”. In: United States Patent Application (PCT/US2021/018235, 2021)
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Books and Review papers</span>
+
+[1] __T. Wu__ and M. D. Lew. “Book: Coded Imaging, Chapter: Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy”. In: Springer Nature (in print).
+

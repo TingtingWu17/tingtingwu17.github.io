@@ -57,6 +57,8 @@ This is my first time giving a lecture about Fourier optics, and I was thrilled 
 
 [New microscopy method provides unprecedented look at amyloid protein structure](https://engineering.wustl.edu/news/2020/New-microscopy-method-provides-unprecedented-look-at-amyloid-protein-structure.html)
 
+<!-- [New Microscopy Method Provides Unprecedented Look at Amyloid Protein Structure](https://www.optica.org/en-us/about/newsroom/news_releases/2020/new_microscopy_method_provides_unprecedented_look/) -->
+
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Science artworks</span>

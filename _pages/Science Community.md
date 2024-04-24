@@ -62,13 +62,22 @@ This is my first time giving a lecture about Fourier optics, and I was thrilled 
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Science artworks</span>
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">Science image</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">Journal Arts</span>
 
-![image](/_pages/files/Optica-pixOL-cover art4.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }Nile red, a fluorescent emitter, transiently binds to the lipid bilayers at a certain orientation and emit fluorescence light. Our pixel-wise optimized phase mask is placed at the back focal plane of the microscope to modulate the phase of fluorescence light. After modulation, the shape of point spread function enables us to measure the 3D orientation and 3D position of Nile red simultaneously.
+__Where do these Journal Arts come from?__
+
+For some of my journal publications, I tried to create art images to submit for journal covers. Whenever I do those journal art designs, I find myself too passionate and even stay super late to create those images. A kind of passion never occurs when I am writing papers or working on projects :). 
+Unfortunately, none of them have been selected as cover images for the journal, so I decided to put them here.
+
+![image](/_pages/files/MVR_system.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" } A novel imaging system design using two pyramid mirrors, termed raMVR. Dipole-like fluorescent dyes (structure at the middle) are imaged using this optical system. [created using Blender]
+
+<br clear="left"/>
+
+![image](/_pages/files/Optica-pixOL-cover art4.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }Nile red, a fluorescent emitter, transiently binds to the lipid bilayers at a certain orientation and emit fluorescence light. Our pixel-wise optimized phase mask is placed at the back focal plane of the microscope to modulate the phase of fluorescence light. After modulation, the shape of point spread function enables us to measure the 3D orientation and 3D position of Nile red simultaneously. [created using Affinity designer]
 
 <br clear="left"/>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 17px;">WashU engineering school calendar</span>
 
-![image](/_pages/files/Lewlab_calendar_v2.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }The pixOL microscope enables super-resolution imaging of the 3D locations and 3D orientations of fluorescent molecules. The 6-dimensional images from pixOL depict Nile red molecules (NR, red bars) as they transiently bind to a spherical lipid bilayer (SLB, gray structures around the sphere). The top two rows show the orientations of NR (each line represents the long axis of the molecule) at different z-slices through the sphere (left to right). With cholesterol (aqua ellipses) present in the SLB, we observe that NR becomes more ordered and perpendicular to the sphere (top row); without cholesterol present to organize the membrane, NR exhibits various orientations (second row). Scale bar: 400 nm.
+![image](/_pages/files/Lewlab_calendar_v2.jpg){: height="75px" width="400px" style="float:left; padding-right:10px" }The pixOL microscope enables super-resolution imaging of the 3D locations and 3D orientations of fluorescent molecules. The 6-dimensional images from pixOL depict Nile red molecules (NR, red bars) as they transiently bind to a spherical lipid bilayer (SLB, gray structures around the sphere). The top two rows show the orientations of NR (each line represents the long axis of the molecule) at different z-slices through the sphere (left to right). With cholesterol (aqua ellipses) present in the SLB, we observe that NR becomes more ordered and perpendicular to the sphere (top row); without cholesterol present to organize the membrane, NR exhibits various orientations (second row). Scale bar: 400 nm. [created using Affinity designer]
 

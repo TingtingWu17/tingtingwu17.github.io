@@ -8,7 +8,7 @@ classes: wide
 
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Books Notes</span>
+## <span style="color:teal; font-family:cursive;font-size: 25px;">Book Notes</span>
 ## <span style="color:teal; font-family:cursive;font-size: 15px;">2024</span>
 
 - The saddest aspect of life right now is that science gathers knowledge faster than society gathers widtom.  --Isaac Asimov

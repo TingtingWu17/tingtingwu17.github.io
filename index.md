@@ -9,12 +9,12 @@ I am a Ph.D. student in [Lew Lab](https://lewlab.wustl.edu/), [Imaging Science P
 
 I am interested in designing advance imaging sytem to enable new capabilities. 
 
-[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">research projects</span>](_pages/research-projects)
+[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Research projects</span>](_pages/research-projects)
 
 
-[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">scientific activities</span>](/_pages/science-community)
+[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Scientific Activities</span>](/_pages/science-community)
 
-[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">publications</span>](/_pages/publications)
+[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Thinkings & Book Notes</span>](_pages/thinkings)
 
-[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">awards</span>](_pages/awards)
+[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Publications</span>](/_pages/publications)
 

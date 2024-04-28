@@ -14,7 +14,7 @@ I am interested in designing advance imaging sytem to enable new capabilities.
 
 [<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Scientific Activities</span>](/_pages/science-community)
 
-[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Thinkings & Book Notes</span>](_pages/thinkings)
+[<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Thinking & Book Notes</span>](_pages/thinkings)
 
 [<span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Publications</span>](/_pages/publications)
 

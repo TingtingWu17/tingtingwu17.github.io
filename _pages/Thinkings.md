@@ -1,5 +1,5 @@
 ---
-title: "Thinkings & Book Notes"
+title: "Thinking & Book Notes"
 permalink: /_pages/thinkings/
 layout: single
 author_profile: true
@@ -16,5 +16,5 @@ classes: wide
 - As a scientist, I take pride in setting my own goals, in using creativity and intuition to tackle a broad range of unsolved problems, and in using language to share what I discover. Fortunately for me, society is willing to pay me to do this as a job. -- Max Tegmark @ <Life 3.0>
 
 
-## <span style="color:teal; font-family:cursive;font-size: 25px;">Thinkings</span>
+## <span style="color:teal; font-family:cursive;font-size: 25px;">Thinking</span>
 under procrastination

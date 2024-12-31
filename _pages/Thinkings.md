@@ -22,6 +22,10 @@ under procrastination...
 
 ## 2024
 2024, I live without ‘what looks good’ but with ‘what feels good’. 
+
 I am not a workaholic, not living for taking beautiful pictures, not living for big success, not living for making more friends, not living for more social events, not living for attending one-time off activities. 
-I find more happiness in living in the moment. I love my body more after dancing every week; I do hour-long running without anything on my head, the training process solid my belief that ‘everything is about training’; I read books, books, and books without feeling in a hurry to do other things; I put English learning into my daily routine and treat it as year-long or life-long devotion; I cut my social events to only focus on well-connected friendships; I put hours into volunteer in the museum to enjoy those creative science events and to work with family, kids, and elderlies. More, I am learning to slow down to love the moment more. 
+
+I find more happiness in living in the moment. I love my body more after dancing every week; I do hour-long running without anything on my head, the training process solid my belief that ‘everything is about training’; I read books, books, and books without feeling in a hurry to do other things; I put English learning into my daily routine and treat it as year-long or life-long devotion; I cut my social events to only focus on well-connected friendships; I put hours into volunteer in the museum to enjoy those creative science events and to work with family, kids, and elderlies. 
+
+More, I am learning to slow down to love the moment more. 
 
